@@ -917,3 +917,74 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.25-08.03.31:230][887]LogSavePackage: Moving 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Saved/Map_01_Day46AA83C84456CEA4CC1D229D27126880.tmp' to 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Content/ImportedAssests/Low_Poly_Viking_World/Maps/Map_01_Day.umap'
 [2023.05.25-08.03.31:282][887]AssetCheck: New page: Asset Save: Map_01_Day
 [2023.05.25-08.03.31:282][887]LogContentValidation: Display: Validating World /Game/ImportedAssests/Low_Poly_Viking_World/Maps/Map_01_Day.Map_01_Day
+[2023.05.25-08.06.50:798][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/kider/Downloads/Up_Slash_PrototypeHero-Sheet-export.png)
+[2023.05.25-08.06.50:800][277]LogTexture: Display: Building textures: /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export.Up_Slash_PrototypeHero-Sheet-export (TFO_AutoDXT, 304X80 X1X1) (Required Memory Estimate: 0.463867 MB), EncodeSpeed: Fast
+[2023.05.25-08.06.52:802][390]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.25-08.06.52:802][390]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.25-08.06.55:588][686]LogTexture: Display: Building textures: /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export.Up_Slash_PrototypeHero-Sheet-export (BGRA8, 304X80 X1X1) (Required Memory Estimate: 0.463867 MB), EncodeSpeed: Fast
+[2023.05.25-08.06.59:647][ 45]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2023.05.25-08.06.59:740][ 46]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2023.05.25-08.06.59:774][ 47]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.05.25-08.07.05:596][435]LogViewport: Scene viewport resized to 699x697, mode Windowed.
+[2023.05.25-08.07.07:158][511]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2023.05.25-08.07.37:737][911]LogSlate: Window 'Extract sprites' being destroyed
+[2023.05.25-08.07.44:306][286]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_0.Up_Slash_PrototypeHero-Sheet-export_Sprite_0
+[2023.05.25-08.07.44:307][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.25-08.07.44:474][286]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.05.25-08.07.57:263][862]LogSavePackage: Moving output files for package: /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_0
+[2023.05.25-08.07.57:263][862]LogSavePackage: Moving 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Saved/Up_Slash_PrototypeHero-Sheet-expE990C094474CC35D4BC194A338063BB4.tmp' to 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Content/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_0.uasset'
+[2023.05.25-08.07.57:274][862]AssetCheck: New page: Asset Save: Up_Slash_PrototypeHero-Sheet-export_Sprite_0
+[2023.05.25-08.07.57:274][862]LogContentValidation: Display: Validating PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_0.Up_Slash_PrototypeHero-Sheet-export_Sprite_0
+[2023.05.25-08.08.04:930][217]LogSlate: Window 'Up_Slash_PrototypeHero-Sheet-export_Sprite_0' being destroyed
+[2023.05.25-08.08.04:941][217]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.25-08.08.04:941][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-08.08.07:796][366]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.25-08.08.07:796][366]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.25-08.08.09:918][571]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_3.Up_Slash_PrototypeHero-Sheet-export_Sprite_3
+[2023.05.25-08.08.09:918][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.25-08.08.10:081][571]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.05.25-08.08.16:063][850]LogSavePackage: Moving output files for package: /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_3
+[2023.05.25-08.08.16:063][850]LogSavePackage: Moving 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Saved/Up_Slash_PrototypeHero-Sheet-exp45117A394CC9DAC4E3487C9CD38E0DBC.tmp' to 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Content/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_3.uasset'
+[2023.05.25-08.08.16:076][850]AssetCheck: New page: Asset Save: Up_Slash_PrototypeHero-Sheet-export_Sprite_3
+[2023.05.25-08.08.16:076][850]LogContentValidation: Display: Validating PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_3.Up_Slash_PrototypeHero-Sheet-export_Sprite_3
+[2023.05.25-08.08.17:383][911]LogSlate: Window 'Up_Slash_PrototypeHero-Sheet-export_Sprite_3' being destroyed
+[2023.05.25-08.08.17:394][911]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.25-08.08.17:394][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-08.08.19:144][981]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_2.Up_Slash_PrototypeHero-Sheet-export_Sprite_2
+[2023.05.25-08.08.19:146][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.25-08.08.19:294][981]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.05.25-08.08.29:717][450]LogSavePackage: Moving output files for package: /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_2
+[2023.05.25-08.08.29:717][450]LogSavePackage: Moving 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Saved/Up_Slash_PrototypeHero-Sheet-exp173AA1184FC5CABC60866A8E06F6CEB3.tmp' to 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Content/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_2.uasset'
+[2023.05.25-08.08.29:728][450]AssetCheck: New page: Asset Save: Up_Slash_PrototypeHero-Sheet-export_Sprite_2
+[2023.05.25-08.08.29:728][450]LogContentValidation: Display: Validating PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_2.Up_Slash_PrototypeHero-Sheet-export_Sprite_2
+[2023.05.25-08.08.30:995][509]LogSlate: Window 'Up_Slash_PrototypeHero-Sheet-export_Sprite_2' being destroyed
+[2023.05.25-08.08.31:006][509]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.25-08.08.31:006][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-08.08.32:556][571]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_1.Up_Slash_PrototypeHero-Sheet-export_Sprite_1
+[2023.05.25-08.08.32:557][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.25-08.08.32:702][571]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.05.25-08.08.51:843][475]LogSavePackage: Moving output files for package: /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_1
+[2023.05.25-08.08.51:843][475]LogSavePackage: Moving 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Saved/Up_Slash_PrototypeHero-Sheet-exp77C4EE064A812B37E64350B6D109514F.tmp' to 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Content/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_1.uasset'
+[2023.05.25-08.08.51:854][475]AssetCheck: New page: Asset Save: Up_Slash_PrototypeHero-Sheet-export_Sprite_1
+[2023.05.25-08.08.51:854][475]LogContentValidation: Display: Validating PaperSprite /Game/ImportedAssests/Sprites/Up_Slash_PrototypeHero-Sheet-export_Sprite_1.Up_Slash_PrototypeHero-Sheet-export_Sprite_1
+[2023.05.25-08.08.53:251][542]LogSlate: Window 'Up_Slash_PrototypeHero-Sheet-export_Sprite_1' being destroyed
+[2023.05.25-08.08.53:263][542]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.25-08.08.53:263][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-08.09.12:173][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.25-08.09.12:173][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.25-08.09.12:862][561]LogContentBrowser: Deferred new asset file creation: Up_Slash_PrototypeHero-Sheet-export1
+[2023.05.25-08.09.12:872][561]LogContentBrowser: Creating deferred item: Up_Slash_PrototypeHero-Sheet-export1
+[2023.05.25-08.09.12:886][562]LogContentBrowser: Renaming the item being created (Deferred Item: Up_Slash_PrototypeHero-Sheet-export1).
+[2023.05.25-08.09.21:541][983]LogContentBrowser: Attempting asset rename: Up_Slash_PrototypeHero-Sheet-export1 -> FB_UpSlash
+[2023.05.25-08.09.21:541][983]LogContentBrowser: End creating deferred item Up_Slash_PrototypeHero-Sheet-export1
+[2023.05.25-08.09.24:867][152]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/ImportedAssests/Sprites/FB_UpSlash.FB_UpSlash
+[2023.05.25-08.09.24:868][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.25-08.09.25:020][152]LogViewport: Scene viewport resized to 1526x757, mode Windowed.
+[2023.05.25-08.09.43:426][981]LogSlate: Window 'FB_UpSlash' being destroyed
+[2023.05.25-08.09.43:433][981]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.25-08.09.43:433][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.25-08.09.44:921][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.25-08.09.46:590][ 53]LogSavePackage: Moving output files for package: /Game/ImportedAssests/Low_Poly_Viking_World/Maps/Map_01_Day
+[2023.05.25-08.09.46:590][ 53]LogSavePackage: Moving 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Saved/Map_01_Day291BF9A04F41165202755CBA9D54921C.tmp' to 'B:/git/unreal jame/UnrealJam/UnrealQuest5Jam/Content/ImportedAssests/Low_Poly_Viking_World/Maps/Map_01_Day.umap'
+[2023.05.25-08.09.46:636][ 53]AssetCheck: New page: Asset Save: Map_01_Day
+[2023.05.25-08.09.46:636][ 53]LogContentValidation: Display: Validating World /Game/ImportedAssests/Low_Poly_Viking_World/Maps/Map_01_Day.Map_01_Day
